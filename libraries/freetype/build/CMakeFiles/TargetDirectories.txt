@@ -1,0 +1,9 @@
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/install/strip.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/install/local.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/edit_cache.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/package_source.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/install.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/list_install_components.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/rebuild_cache.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/package.dir
+/home/kartik/my_codes/graphics/assign1/libraries/freetype/build/CMakeFiles/freetype.dir

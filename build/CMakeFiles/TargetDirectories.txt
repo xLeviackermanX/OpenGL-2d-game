@@ -1,0 +1,9 @@
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/CMakeFiles/rebuild_cache.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/CMakeFiles/OpenGL-2d-game.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/CMakeFiles/edit_cache.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/CMakeFiles/glad.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/priyansh/assignment1/2019101080/OpenGL-2d-game/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
