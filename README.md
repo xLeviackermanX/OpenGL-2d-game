@@ -13,3 +13,4 @@ Random maze each time.
 Controls:
 Press w,a,s,d for character movement.
 Press z to turn make light dim , this will boost your score. Press x to make world bright again.
+To press the buttons you need to bring your character above these buttons and then press "P"
